@@ -1,0 +1,32 @@
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE / editor settings
+.vscode/
+.idea/
+
+# MySQL / database exports
+*.log
+*.tmp
+*.bak
+*.sql~
+*.swp
+
+# Environment / secrets
+.env
+.env.*
+*.pem
+*.key
+
+# Python cache if you later add scripts
+__pycache__/
+*.pyc
+
+# Node dependencies if you later add a backend/frontend
+node_modules/
+
+# Temporary files
+temp/
+tmp/
